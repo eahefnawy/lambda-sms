@@ -1,0 +1,20 @@
+{
+  "name": "lambda-sms",
+  "version": "0.0.1",
+  "description": "AWS Lambda for sending sms. Ready for deployment in 60 seocnds.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eahefnawy/lambda-sms.git"
+  },
+  "author": "Eslam A. Hefnawy <eahefnawy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eahefnawy/lambda-sms"
+  },
+  "homepage": "https://github.com/eahefnawy/lambda-sms",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "twilio": "^2.4.0"
+  }
+}
